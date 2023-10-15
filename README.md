@@ -11,6 +11,8 @@ open cmd and type:
 ```pip install requests```
 &
 ```pip install colorama```
+&
+```pip install os```
 
 done.
 
