@@ -2,7 +2,9 @@
 import requests
 import colorama
 from colorama import Fore, Back, Style
+import os
 
+os.system("cls")
 print(Fore.BLUE + """
      _                       _                 _    
  ___(_)_ __ ___  _ __  _   _| |__   ___   ___ | | __
